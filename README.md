@@ -1,2 +1,2 @@
 # maple
-<input type="checkbox" name="xxx" value="yyy" checked>
+일퀘 [ ] learn the GraphQL
